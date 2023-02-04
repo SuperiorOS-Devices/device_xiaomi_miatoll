@@ -6,6 +6,7 @@ LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
           arcore \
+          AndroidAutoStubPrebuilt \
           AmbientSensePrebuilt \
           AppDirectedSMSService \
           ConnMO \
@@ -15,7 +16,6 @@ LOCAL_OVERRIDES_PACKAGES := \
           DevicePolicyPrebuilt \
           DMService \
           GCS \
-          GoogleCamera \
           MaestroPrebuilt \
           Maps \
           MicropaperPrebuilt \

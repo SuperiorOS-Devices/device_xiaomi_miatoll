@@ -1,18 +1,44 @@
 [
   {
-    "repository": "kernel_xiaomi_sm6250",
-    "target_path": "kernel/xiaomi/sm6250"
+    "repository": "SuperiorOS-Devices/kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250",
+    "branch": "13",
+    "remote": "github"
   },
   {
-    "repository": "device_xiaomi_sm6250-common",
-    "target_path": "device/xiaomi/sm6250-common"
+    "repository": "SuperiorOS-Devices/device_xiaomi_sm6250-common",
+    "target_path": "device/xiaomi/sm6250-common",
+    "branch": "13",
+    "remote": "github"
   },
   {
-    "repository": "vendor_xiaomi_miatoll",
-    "target_path": "vendor/xiaomi/miatoll"
+    "repository": "SuperiorOS-Devices/vendor_xiaomi_miatoll",
+    "target_path": "vendor/xiaomi/miatoll",
+    "branch": "13",
+    "remote": "github"
   },
   {
-    "repository": "vendor_xiaomi_sm6250-common",
-    "target_path": "vendor/xiaomi/sm6250-common"
+    "repository": "SuperiorOS-Devices/vendor_xiaomi_sm6250-common",
+    "target_path": "vendor/xiaomi/sm6250-common",
+    "branch": "13",
+    "remote": "github"
+  },
+  {
+    "repository": "userariii/android_vendor_xiaomi_miatoll-gcam",
+    "target_path": "vendor/xiaomi/miatoll-gcam",
+    "branch": "LMC",
+    "remote": "gitlab"
+  },
+  {
+    "repository": "Panchajanya1999/azure-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-14.0",
+    "branch": "main",
+    "remote": "gitlab"
+  },
+  {
+    "repository": "ArrowOS-Devices/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "arrow-13.0",
+    "remote": "github"
   }
 ]

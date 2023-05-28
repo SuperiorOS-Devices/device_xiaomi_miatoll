@@ -34,11 +34,5 @@
     "target_path": "prebuilts/clang/host/linux-x86/clang-14.0",
     "branch": "main",
     "remote": "gitlab"
-  },
-  {
-    "repository": "ArrowOS-Devices/android_hardware_xiaomi",
-    "target_path": "hardware/xiaomi",
-    "branch": "arrow-13.0",
-    "remote": "github"
   }
 ]

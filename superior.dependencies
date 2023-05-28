@@ -2,7 +2,7 @@
   {
     "repository": "SuperiorOS-Devices/kernel_xiaomi_sm6250",
     "target_path": "kernel/xiaomi/sm6250",
-    "branch": "13",
+    "branch": "a13",
     "remote": "github"
   },
   {

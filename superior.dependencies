@@ -8,7 +8,7 @@
   {
     "repository": "SuperiorOS-Devices/device_xiaomi_sm6250-common",
     "target_path": "device/xiaomi/sm6250-common",
-    "branch": "13",
+    "branch": "thirteen_miui",
     "remote": "github"
   },
   {

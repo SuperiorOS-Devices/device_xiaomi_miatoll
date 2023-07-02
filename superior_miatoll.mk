@@ -10,9 +10,6 @@ $(call inherit-product, device/xiaomi/miatoll/device.mk)
 # Inherit some common superior stuff.
 $(call inherit-product, vendor/superior/config/common.mk)
 
-# Inherit GoogleCAM.
-$(call inherit-product, vendor/xiaomi/miatoll-gcam/miatoll-gcam-vendor.mk)
-
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 

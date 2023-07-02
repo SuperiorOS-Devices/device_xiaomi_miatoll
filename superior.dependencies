@@ -24,12 +24,6 @@
     "remote": "github"
   },
   {
-    "repository": "userariii/android_vendor_xiaomi_miatoll-gcam",
-    "target_path": "vendor/xiaomi/miatoll-gcam",
-    "branch": "LMC",
-    "remote": "gitlab"
-  },
-  {
     "repository": "Panchajanya1999/azure-clang",
     "target_path": "prebuilts/clang/host/linux-x86/clang-14.0",
     "branch": "main",

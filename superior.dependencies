@@ -1,0 +1,44 @@
+[
+  {
+    "repository": "SuperiorOS-Devices/kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250",
+    "branch": "13",
+    "remote": "github"
+  },
+  {
+    "repository": "SuperiorOS-Devices/device_xiaomi_sm6250-common",
+    "target_path": "device/xiaomi/sm6250-common",
+    "branch": "thirteen",
+    "remote": "github"
+  },
+  {
+    "repository": "SuperiorOS-Devices/vendor_xiaomi_miatoll",
+    "target_path": "vendor/xiaomi/miatoll",
+    "branch": "13",
+    "remote": "github"
+  },
+  {
+    "repository": "SuperiorOS-Devices/vendor_xiaomi_sm6250-common",
+    "target_path": "vendor/xiaomi/sm6250-common",
+    "branch": "thirteen",
+    "remote": "github"
+  },
+  {
+    "repository": "userariii/hardware_dolby",
+    "target_path": "hardware/dolby",
+    "branch": "main",
+    "remote": "github"
+  },
+  {
+    "repository": "Panchajanya1999/azure-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-14.0",
+    "branch": "main",
+    "remote": "gitlab"
+  },
+  {
+    "repository": "userariii/vendor-xiaomi-miuicamera",
+    "target_path": "vendor/xiaomi/miuicamera",
+    "branch": "miuicam",
+    "remote": "gitlab"
+  }
+]

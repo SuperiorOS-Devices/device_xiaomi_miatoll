@@ -42,9 +42,9 @@
     "remote": "gitlab"
   },
   {
-    "repository": "PixelExperience/hardware_xiaomi",
+    "repository": "SuperiorOS-Devices/hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "thirteen",
+    "branch": "miatoll",
     "remote": "github"
   },
   {

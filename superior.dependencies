@@ -46,5 +46,9 @@
     "target_path": "hardware/xiaomi",
     "branch": "thirteen",
     "remote": "github"
+  },
+  {
+    "repository":"android_packages_resources_devicesettings",
+    "target_path":"packages/resources/devicesettings"
   }
 ]
